@@ -1,0 +1,8 @@
+{
+  "deviceIP": "localhost",
+  "deviceName": "FiPhone",
+  "port": 2222,
+  "shouldAutoUpdateScript": true,
+  "lastUpdateCheck": 1472598490,
+  "checkUpdatesEveryXHours": 24
+}
